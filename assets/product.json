@@ -1,0 +1,54 @@
+{
+  "id": "learn_italian",
+  "displayName": "Learn Italian",
+  "targetLanguageName": "Italian",
+  "targetLanguageCode": "it",
+  "nativeLanguageName": "Italiano",
+  "textDirection": "ltr",
+  "writingSystem": "alphabet",
+  "primaryAccentColor": "#C46A3C",
+  "contentPackPath": "assets/content",
+  "defaultTranslationLanguage": "en",
+  "speechLocale": "it",
+  "speech": {
+    "locale": "it-IT",
+    "preferredVoiceName": "Alice",
+    "preferredVoiceIdentifier": "com.apple.voice.compact.it-IT.Alice",
+    "preferredVoiceNames": [
+      "Alice (Enhanced)",
+      "Alice (Premium)",
+      "Alice",
+      "com.apple.voice.compact.it-IT.Alice",
+      "com.apple.voice.enhanced.it-IT.Alice",
+      "Federica (Enhanced)",
+      "Federica (Premium)",
+      "Federica",
+      "Emma",
+      "it-it-x-ita-local"
+    ],
+    "preferredGender": "female",
+    "rate": 0.47,
+    "pitch": 1.0
+  },
+  "supportedTranslationLanguages": [
+    "en",
+    "tr",
+    "es",
+    "ar",
+    "fr",
+    "de",
+    "ru",
+    "pt",
+    "it",
+    "ja",
+    "ko",
+    "zh",
+    "hi",
+    "id",
+    "fa"
+  ],
+  "featureFlags": {
+    "alphabet": true,
+    "audio": true
+  }
+}
